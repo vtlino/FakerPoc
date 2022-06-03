@@ -1,0 +1,12 @@
+D:\GitHub\SwaggerDocumentation\src\Faker\Faker.Service\bin\Debug\net6.0\Faker.Service.deps.json
+D:\GitHub\SwaggerDocumentation\src\Faker\Faker.Service\bin\Debug\net6.0\Faker.Service.dll
+D:\GitHub\SwaggerDocumentation\src\Faker\Faker.Service\bin\Debug\net6.0\Faker.Service.pdb
+D:\GitHub\SwaggerDocumentation\src\Faker\Faker.Service\obj\Debug\net6.0\Faker.Service.csproj.AssemblyReference.cache
+D:\GitHub\SwaggerDocumentation\src\Faker\Faker.Service\obj\Debug\net6.0\Faker.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SwaggerDocumentation\src\Faker\Faker.Service\obj\Debug\net6.0\Faker.Service.AssemblyInfoInputs.cache
+D:\GitHub\SwaggerDocumentation\src\Faker\Faker.Service\obj\Debug\net6.0\Faker.Service.AssemblyInfo.cs
+D:\GitHub\SwaggerDocumentation\src\Faker\Faker.Service\obj\Debug\net6.0\Faker.Service.csproj.CoreCompileInputs.cache
+D:\GitHub\SwaggerDocumentation\src\Faker\Faker.Service\obj\Debug\net6.0\Faker.Service.dll
+D:\GitHub\SwaggerDocumentation\src\Faker\Faker.Service\obj\Debug\net6.0\refint\Faker.Service.dll
+D:\GitHub\SwaggerDocumentation\src\Faker\Faker.Service\obj\Debug\net6.0\Faker.Service.pdb
+D:\GitHub\SwaggerDocumentation\src\Faker\Faker.Service\obj\Debug\net6.0\ref\Faker.Service.dll
